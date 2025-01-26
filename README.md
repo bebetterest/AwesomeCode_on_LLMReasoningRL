@@ -19,6 +19,15 @@ Tulu 3: Pushing Frontiers in Open Language Model Post-Training ([2411.15124](htt
 
 
 ---
+- [PRIME](https://github.com/PRIME-RL/PRIME)
+
+PRIME (Process Reinforcement through IMplicit REwards), an open-source solution for online RL with process rewards. This work stems from the implicit process reward modeling (PRM) objective.
+built upon veRL.
+
+![RLVR-img](imgs/PRIME.png)
+
+
+---
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
 TinyZero is a reproduction of DeepSeek R1 Zero in countdown and multiplication tasks.
@@ -68,5 +77,6 @@ built upon OpenRLHF.
 - [RLVR-MATH](https://huggingface.co/datasets/allenai/RLVR-MATH)
 - [code_contests](https://huggingface.co/datasets/deepmind/code_contests)
 - [RLVR-IFeval](https://huggingface.co/datasets/allenai/RLVR-IFeval)
+- [Eurus-2-RL-Data](https://huggingface.co/datasets/PRIME-RL/Eurus-2-RL-Data)
 - ...
 
