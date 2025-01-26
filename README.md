@@ -5,9 +5,13 @@
 
 ReFT: Reasoning with Reinforced Fine-Tuning ([2401.08967](https://arxiv.org/abs/2401.08967))
 
+![ReFT-img](imgs/REFT.png)
+
 - [RLVR: Reinforcement Learning with Verifiable Rewards](https://github.com/allenai/open-instruct/blob/main/open_instruct/ppo_vllm_thread_ray_gtrl.py)
 
 Tulu 3: Pushing Frontiers in Open Language Model Post-Training ([2411.15124](https://arxiv.org/abs/2411.15124))
+
+![RLVR-img](imgs/RLVR.png)
 
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
@@ -22,6 +26,8 @@ built upon OpenRLHF.
 - [open-r1](https://github.com/huggingface/open-r1)
 
 A fully open reproduction of DeepSeek-R1.
+
+![open-r1](imgs/open-r1.png)
 
 
 ## verifier
