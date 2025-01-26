@@ -1,33 +1,56 @@
 # AwesomeCode_on_LLMReasoningRL
 > awesome code on LLM reasoning reinforcement learning from the beautiful world 🤯 We are not here to judge the performance of all kinds of methods; we are here to appreciate the beauty in diversity.
 
+
+---
 - [ReFT](https://github.com/lqtrung1998/mwp_ReFT)
 
 ReFT: Reasoning with Reinforced Fine-Tuning ([2401.08967](https://arxiv.org/abs/2401.08967))
 
 ![ReFT-img](imgs/REFT.png)
 
+
+---
 - [RLVR: Reinforcement Learning with Verifiable Rewards](https://github.com/allenai/open-instruct/blob/main/open_instruct/ppo_vllm_thread_ray_gtrl.py)
 
 Tulu 3: Pushing Frontiers in Open Language Model Post-Training ([2411.15124](https://arxiv.org/abs/2411.15124))
 
 ![RLVR-img](imgs/RLVR.png)
 
+
+---
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
 TinyZero is a reproduction of DeepSeek R1 Zero in countdown and multiplication tasks.
 built upon veRL.
 
+
+---
 - [simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
 
 simpleRL-reason reproduces the training of DeepSeek-R1-Zero and DeepSeek-R1 for complex mathematical reasoning, starting from Qwen-2.5-Math-7B (base model), and only using 8K (query, final answer) examples from the original MATH dataset.
 built upon OpenRLHF.
 
+
+---
 - [open-r1](https://github.com/huggingface/open-r1)
 
 A fully open reproduction of DeepSeek-R1.
 
 ![open-r1](imgs/open-r1.png)
+
+
+---
+- [simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
+
+simpleRL-reason reproduces the training of DeepSeek-R1-Zero and DeepSeek-R1 for complex mathematical reasoning, starting from Qwen-2.5-Math-7B (base model), and only using 8K (query, final answer) examples from the original MATH dataset.
+built upon OpenRLHF.
+
+---
+- [STILL-3-1.5B-Preview](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs/tree/main/OpenRLHF-STILL)
+
+apply RL on DeepSeek-R1-Distill-Qwen-1.5B with 30k data (from MATH,NuminaMathCoT, and AIME 1983-2023).
+built upon OpenRLHF.
 
 
 ## verifier
