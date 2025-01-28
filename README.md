@@ -35,13 +35,6 @@ built upon veRL.
 
 
 ---
-- [simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
-
-simpleRL-reason reproduces the training of DeepSeek-R1-Zero and DeepSeek-R1 for complex mathematical reasoning, starting from Qwen-2.5-Math-7B (base model), and only using 8K (query, final answer) examples from the original MATH dataset.
-built upon OpenRLHF.
-
-
----
 - [open-r1](https://github.com/huggingface/open-r1)
 
 A fully open reproduction of DeepSeek-R1.🤗
