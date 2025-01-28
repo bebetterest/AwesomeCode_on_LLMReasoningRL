@@ -44,7 +44,7 @@ built upon OpenRLHF.
 ---
 - [open-r1](https://github.com/huggingface/open-r1)
 
-A fully open reproduction of DeepSeek-R1.
+A fully open reproduction of DeepSeek-R1.🤗
 
 ![open-r1](imgs/open-r1.png)
 
