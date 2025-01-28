@@ -61,6 +61,14 @@ built upon OpenRLHF.
 apply RL on DeepSeek-R1-Distill-Qwen-1.5B with 30k data (from MATH,NuminaMathCoT, and AIME 1983-2023).
 built upon OpenRLHF.
 
+---
+- [RAGEN](https://github.com/ZihanWang314/ragen)
+
+RAGEN is a reproduction of the DeepSeek-R1(-Zero) methods for training agentic models. They run RAGEN on Qwen-2.5-{0.5B, 3B}-{Instruct, None} and DeepSeek-R1-Distill-Qwen-1.5B, on the Gym-Sokoban task.📦
+built upon veRL.
+
+![RAGEN](imgs/RAGEN.png)
+
 
 ## verifier
 - [huggingface/Math-Verify](https://github.com/huggingface/Math-Verify)
