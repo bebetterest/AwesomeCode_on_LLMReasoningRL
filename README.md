@@ -33,6 +33,7 @@ built upon veRL.
 TinyZero is a reproduction of DeepSeek R1 Zero in countdown and multiplication tasks.
 built upon veRL.
 
+([Mini-R1](https://www.philschmid.de/mini-deepseek-r1#4-distributed-training-example-for-grpo-using-deepspeed-and-vllm): Philipp reproduced R1 aha moment on countdown as well. built upon trl)
 
 ---
 - [open-r1](https://github.com/huggingface/open-r1)
@@ -86,4 +87,5 @@ built upon veRL.
 - [NuminaMath-QwQ-CoT-5M](https://huggingface.co/datasets/PrimeIntellect/NuminaMath-QwQ-CoT-5M)
 - [Bespoke-Stratos-17k](https://huggingface.co/datasets/bespokelabs/Bespoke-Stratos-17k)
 - [R1-Distill-SFT](https://huggingface.co/datasets/ServiceNow-AI/R1-Distill-SFT)
+- [dolphin-r1](https://huggingface.co/datasets/cognitivecomputations/dolphin-r1)
 
