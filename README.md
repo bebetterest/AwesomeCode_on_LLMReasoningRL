@@ -78,7 +78,7 @@ built upon veRL.
 - math
   - [RLVR-GSM](https://huggingface.co/datasets/allenai/RLVR-GSM) (train:7.47k; test:1.32k)
   - [RLVR-MATH](https://huggingface.co/datasets/allenai/RLVR-MATH) (train:7.5k)
-  - [NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT) (train:859k; test:100)
+  - [NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT) (aops_forum+amc_aime+cn_k12+gsm8k+math+olympiads+orca_math+synthetic_amc+synthetic_math) (train:859k; test:100)
 - code
   - [code_contests](https://huggingface.co/datasets/deepmind/code_contests) (train:3.76k; val:117; test:165)
   - [TACO](https://huggingface.co/datasets/BAAI/TACO) (train:25k; test:1k)
