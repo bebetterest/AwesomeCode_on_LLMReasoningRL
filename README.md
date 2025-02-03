@@ -35,6 +35,7 @@ built upon veRL.
 
 ([Mini-R1](https://www.philschmid.de/mini-deepseek-r1#4-distributed-training-example-for-grpo-using-deepspeed-and-vllm): Philipp reproduced R1 aha moment on countdown as well. built upon trl)
 
+
 ---
 - [open-r1](https://github.com/huggingface/open-r1)
 
@@ -49,11 +50,13 @@ A fully open reproduction of DeepSeek-R1.🤗
 simpleRL-reason reproduces the training of DeepSeek-R1-Zero and DeepSeek-R1 for complex mathematical reasoning, starting from Qwen-2.5-Math-7B (base model), and only using 8K (query, final answer) examples from the original MATH dataset.
 built upon OpenRLHF.
 
+
 ---
 - [STILL-3-1.5B-Preview](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs/tree/main/OpenRLHF-STILL)
 
 apply RL on DeepSeek-R1-Distill-Qwen-1.5B with 30k data (from MATH,NuminaMathCoT, and AIME 1983-2023).
 built upon OpenRLHF.
+
 
 ---
 - [RAGEN](https://github.com/ZihanWang314/ragen)
@@ -62,6 +65,16 @@ RAGEN is a reproduction of the DeepSeek-R1(-Zero) methods for training agentic m
 built upon veRL.
 
 ![RAGEN](imgs/RAGEN.png)
+
+
+---
+- [open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
+
+![open-r1-multimodal](imgs/open-r1-multimodal.png)
+
+
+---
+- [R1-V](https://github.com/Deep-Agent/R1-V)
 
 
 ## verifier
