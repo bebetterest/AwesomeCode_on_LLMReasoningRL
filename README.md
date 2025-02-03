@@ -75,12 +75,17 @@ built upon veRL.
 
 
 ## data (any ratable task could be applied)
-- [RLVR-GSM](https://huggingface.co/datasets/allenai/RLVR-GSM)
-- [RLVR-MATH](https://huggingface.co/datasets/allenai/RLVR-MATH)
-- [code_contests](https://huggingface.co/datasets/deepmind/code_contests)
-- [RLVR-IFeval](https://huggingface.co/datasets/allenai/RLVR-IFeval)
-- [Eurus-2-RL-Data](https://huggingface.co/datasets/PRIME-RL/Eurus-2-RL-Data)
-- [https://huggingface.co/datasets/AI-MO/NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT)
+- math
+  - [RLVR-GSM](https://huggingface.co/datasets/allenai/RLVR-GSM)
+  - [RLVR-MATH](https://huggingface.co/datasets/allenai/RLVR-MATH)
+  - [NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT)
+- code
+  - [code_contests](https://huggingface.co/datasets/deepmind/code_contests)
+  - [TACO](https://huggingface.co/datasets/BAAI/TACO)
+- others
+  - [RLVR-IFeval](https://huggingface.co/datasets/allenai/RLVR-IFeval)
+- mix
+  - [Eurus-2-RL-Data](https://huggingface.co/datasets/PRIME-RL/Eurus-2-RL-Data) (NuminaMath-CoT+APPS+CodeContests+TACO+Codeforces+cleaning and filtering)
 - ...
 
 
