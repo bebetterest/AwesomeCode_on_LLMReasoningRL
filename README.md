@@ -68,6 +68,13 @@ built upon veRL.
 
 
 ---
+- [Logic-RL](https://github.com/Unakar/Logic-RL)
+
+reproduce DeepSeek R1 Zero on 2K Tiny Logic Puzzle Dataset.
+built upon veRL.
+
+
+---
 - [open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
 
 ![open-r1-multimodal](imgs/open-r1-multimodal.png)
@@ -97,7 +104,8 @@ built upon veRL.
   - [TACO](https://huggingface.co/datasets/BAAI/TACO) (train:25k; test:1k)
   - [AceCode-89K](https://huggingface.co/datasets/TIGER-Lab/AceCode-89K) (train:87.1k)
 - puzzle
-  - [https://huggingface.co/blog/yuchenlin/zebra-logic](https://huggingface.co/blog/yuchenlin/zebra-logic) (It's possible to synthetic data on zebra-puzzle for rl)
+  - [https://huggingface.co/blog/yuchenlin/zebra-logic](https://huggingface.co/blog/yuchenlin/zebra-logic) (zebra-puzzle)
+  - [mem-kk-logic](https://github.com/AlphaPav/mem-kk-logic/) (Knights and Knaves (K&K) puzzles)
 - others
   - [RLVR-IFeval](https://huggingface.co/datasets/allenai/RLVR-IFeval) (train:15k)
 - mix
