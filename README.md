@@ -94,10 +94,11 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [huggingface/Math-Verify](https://github.com/huggingface/Math-Verify)
 
 
-## rl framework
+## general
 - [huggingface/trl](https://github.com/huggingface/trl)
 - [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - [volcengine/verl](https://github.com/volcengine/verl)
+- [unsloth](https://docs.unsloth.ai/basics/reasoning-grpo-rl-ppo)
 
 
 ## data (any ratable task could be applied)
