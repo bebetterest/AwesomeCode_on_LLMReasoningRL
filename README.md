@@ -68,7 +68,7 @@ built upon veRL.
 ---
 - [deepscaler](https://github.com/agentica-project/deepscaler)
 
-DeepScaleR-1.5B-Preview, a 1.5B model that surpasses O1-Preview and achieves 43.1% Pass@1 on AIME. We achieve this by iteratively scaling Deepseek's GRPO algorithm from 8K→16K->24K context length for thinking.
+DeepScaleR-1.5B-Preview, a 1.5B model that surpasses O1-Preview and achieves 43.1% Pass@1 on AIME. They achieve this by iteratively scaling Deepseek's GRPO algorithm from 8K→16K->24K context length for thinking.
 built upon veRL.
 
 
