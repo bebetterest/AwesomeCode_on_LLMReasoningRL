@@ -59,19 +59,26 @@ built upon OpenRLHF.
 
 
 ---
+- [Logic-RL](https://github.com/Unakar/Logic-RL)
+
+reproduce DeepSeek R1 Zero on 2K Tiny Logic Puzzle Dataset.
+built upon veRL.
+
+
+---
+- [deepscaler](https://github.com/agentica-project/deepscaler)
+
+DeepScaleR-1.5B-Preview, a 1.5B model that surpasses O1-Preview and achieves 43.1% Pass@1 on AIME. We achieve this by iteratively scaling Deepseek's GRPO algorithm from 8K→16K->24K context length for thinking.
+built upon veRL.
+
+
+---
 - [RAGEN](https://github.com/ZihanWang314/ragen)
 
 RAGEN is a reproduction of the DeepSeek-R1(-Zero) methods for training agentic models. They run RAGEN on Qwen-2.5-{0.5B, 3B}-{Instruct, None} and DeepSeek-R1-Distill-Qwen-1.5B, on the Gym-Sokoban task.📦
 built upon veRL.
 
 ![RAGEN](imgs/RAGEN.png)
-
-
----
-- [Logic-RL](https://github.com/Unakar/Logic-RL)
-
-reproduce DeepSeek R1 Zero on 2K Tiny Logic Puzzle Dataset.
-built upon veRL.
 
 
 ---
@@ -105,6 +112,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
   - [RLVR-GSM](https://huggingface.co/datasets/allenai/RLVR-GSM) (train:7.47k; test:1.32k)
   - [RLVR-MATH](https://huggingface.co/datasets/allenai/RLVR-MATH) (train:7.5k)
   - [NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT) (aops_forum+amc_aime+cn_k12+gsm8k+math+olympiads+orca_math+synthetic_amc+synthetic_math) (train:859k; test:100)
+  - [NuminaMath-1.5](https://huggingface.co/datasets/AI-MO/NuminaMath-1.5)
 - code
   - [code_contests](https://huggingface.co/datasets/deepmind/code_contests) (train:3.76k; val:117; test:165)
   - [TACO](https://huggingface.co/datasets/BAAI/TACO) (train:25k; test:1k)
@@ -131,6 +139,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [Magpie-Reasoning-V1-150K-CoT-Deepseek-R1-Llama-70B](https://huggingface.co/datasets/Magpie-Align/Magpie-Reasoning-V1-150K-CoT-Deepseek-R1-Llama-70B)
 - [function-calling-v0.2-with-r1-cot](https://huggingface.co/datasets/AymanTarig/function-calling-v0.2-with-r1-cot)
 - [s1K](https://huggingface.co/datasets/simplescaling/s1K)   (It seems that it includes some eval set (such as OmniMath) ???🤯)
+- [OpenR1-Math-220k](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
 
 
 ## others
