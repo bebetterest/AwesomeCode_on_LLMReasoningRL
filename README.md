@@ -74,7 +74,15 @@ built upon veRL.
 
 ---
 - [X-R1](https://github.com/dhcode-cpp/X-R1)
+
 minimal-cost for training 0.5B R1
+
+
+---
+- [CP-Zero](https://github.com/phonism/CP-Zero)
+
+Qwen2.5-Coder-7B on Code Contest
+built upon veRL.
 
 
 ---
