@@ -79,6 +79,12 @@ minimal-cost for training 0.5B R1
 
 
 ---
+- [Sky-T1-7B](https://github.com/NovaSky-AI/SkyThought)
+
+Sky-T1-7B, an open-recipe 7B model on math reasoning tasks, trained with 4-step SFT->RL->SFT->RL from the Qwen2.5-Math-7B base model.
+
+
+---
 - [CP-Zero](https://github.com/phonism/CP-Zero)
 
 Qwen2.5-Coder-7B on Code Contest
@@ -155,6 +161,12 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [function-calling-v0.2-with-r1-cot](https://huggingface.co/datasets/AymanTarig/function-calling-v0.2-with-r1-cot)
 - [s1K](https://huggingface.co/datasets/simplescaling/s1K)   (It seems that it includes some eval set (such as OmniMath) ???🤯)
 - [OpenR1-Math-220k](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
+
+
+## model weigts
+- [QwQ-32B-Preview](https://huggingface.co/Qwen/QwQ-32B-Preview)
+- [DeepSeek-R1 series](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)
+- [sky-t1-7b](https://huggingface.co/collections/NovaSky-AI/sky-t1-7b-67ab281da8192c1ba3e5296c)
 
 
 ## others
