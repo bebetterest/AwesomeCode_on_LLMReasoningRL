@@ -85,10 +85,23 @@ Sky-T1-7B, an open-recipe 7B model on math reasoning tasks, trained with 4-step 
 
 
 ---
+- [simple_GRPO](https://github.com/lsdefine/simple_GRPO)
+
+A very simple GRPO implement for reproducing r1-like LLM thinking.
+
+
+---
 - [CP-Zero](https://github.com/phonism/CP-Zero)
 
-Qwen2.5-Coder-7B on Code Contest
+Qwen2.5-Coder-7B on Code Contest.
 built upon veRL.
+
+
+---
+- [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/)
+
+An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model.
+adapt from openrlhf. 
 
 
 ---
@@ -114,6 +127,10 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 
 ---
 - [R1-V](https://github.com/Deep-Agent/R1-V)
+
+
+---
+- [VLM-R1](https://github.com/om-ai-lab/VLM-R1)
 
 
 ## verifier
@@ -161,6 +178,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [function-calling-v0.2-with-r1-cot](https://huggingface.co/datasets/AymanTarig/function-calling-v0.2-with-r1-cot)
 - [s1K](https://huggingface.co/datasets/simplescaling/s1K)   (It seems that it includes some eval set (such as OmniMath) ???🤯)
 - [OpenR1-Math-220k](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
+- [Chinese-DeepSeek-R1-Distill-data-110k](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k)
 
 
 ## model weigts
@@ -171,4 +189,6 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 
 ## others
 - [Reasoning Datasets](https://huggingface.co/collections/philschmid/reasoning-datasets-679f57ff20e5b46b4ef4d3dd)
+- [RL with Better Cold-Start Strategies](https://github.com/liziniu/cold_start_rl)
+- [Learning to Reason at the Frontier of Learnability](https://arxiv.org/pdf/2502.12272)
 
