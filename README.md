@@ -28,6 +28,14 @@ built upon veRL.
 
 
 ---
+- [PURE](https://github.com/CJReinforce/PURE)
+
+Stop Gamma Decay: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning. Process Reward Model (PRM) trained on PRM800K dataset can fine-tune LLM to achieve SOTA-level mathematical reasoning capabilities for < $150 (8 A100 GPUs * 16 hours).
+
+![PURE-img](imgs/PURE.png)
+
+
+---
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
 TinyZero is a reproduction of DeepSeek R1 Zero in countdown and multiplication tasks.
