@@ -144,6 +144,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 
 
 ## data (any ratable task could be applied)
+- [Open Reasoning Data](https://gr.inc/)
 - math
   - [RLVR-GSM](https://huggingface.co/datasets/allenai/RLVR-GSM) (train:7.47k; test:1.32k)
   - [RLVR-MATH](https://huggingface.co/datasets/allenai/RLVR-MATH) (train:7.5k)
