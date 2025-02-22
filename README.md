@@ -179,6 +179,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [s1K](https://huggingface.co/datasets/simplescaling/s1K)   (It seems that it includes some eval set (such as OmniMath) ???🤯)
 - [OpenR1-Math-220k](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
 - [Chinese-DeepSeek-R1-Distill-data-110k](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k)
+- [Primus-Reasoning](https://huggingface.co/datasets/trendmicro-ailab/Primus-Reasoning)
 
 
 ## model weigts
