@@ -36,6 +36,12 @@ Stop Gamma Decay: Min-Form Credit Assignment Is All Process Reward Model Needs f
 
 
 ---
+- [OREAL](https://github.com/InternLM/OREAL)
+
+Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning.
+
+
+---
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
 TinyZero is a reproduction of DeepSeek R1 Zero in countdown and multiplication tasks.
@@ -153,6 +159,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 
 ## data (any ratable task could be applied)
 - [Open Reasoning Data](https://gr.inc/)
+- [synthetic-1](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-1)
 - math
   - [RLVR-GSM](https://huggingface.co/datasets/allenai/RLVR-GSM) (train:7.47k; test:1.32k)
   - [RLVR-MATH](https://huggingface.co/datasets/allenai/RLVR-MATH) (train:7.5k)
