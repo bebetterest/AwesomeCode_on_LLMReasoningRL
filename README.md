@@ -166,6 +166,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
   - [NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT) (aops_forum+amc_aime+cn_k12+gsm8k+math+olympiads+orca_math+synthetic_amc+synthetic_math) (train:859k; test:100)
   - [NuminaMath-1.5](https://huggingface.co/datasets/AI-MO/NuminaMath-1.5) (train: 896k)
   - [DeepScaleR-Preview-Dataset](https://huggingface.co/datasets/agentica-org/DeepScaleR-Preview-Dataset) (AIME+AMC+Omni-MATH+STILL) (train: 40k)
+  - [Big-Math-RL-Verified](https://huggingface.co/datasets/SynthLabsAI/Big-Math-RL-Verified)
 - code
   - [code_contests](https://huggingface.co/datasets/deepmind/code_contests) (train:3.76k; val:117; test:165)
   - [TACO](https://huggingface.co/datasets/BAAI/TACO) (train:25k; test:1k)
