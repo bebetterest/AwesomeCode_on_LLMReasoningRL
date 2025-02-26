@@ -119,6 +119,12 @@ adapt from openrlhf.
 
 
 ---
+- [https://github.com/facebookresearch/swe-rl](https://github.com/facebookresearch/swe-rl)
+
+Advancing LLM (Llama3-70B) Reasoning via Reinforcement Learning (grpo) on Open Software Evolution.
+
+
+---
 - [RAGEN](https://github.com/ZihanWang314/ragen)
 
 RAGEN is a reproduction of the DeepSeek-R1(-Zero) methods for training agentic models. They run RAGEN on Qwen-2.5-{0.5B, 3B}-{Instruct, None} and DeepSeek-R1-Distill-Qwen-1.5B, on the Gym-Sokoban task.📦
