@@ -119,7 +119,7 @@ adapt from openrlhf.
 
 
 ---
-- [https://github.com/facebookresearch/swe-rl](https://github.com/facebookresearch/swe-rl)
+- [swe-rl](https://github.com/facebookresearch/swe-rl)
 
 Advancing LLM (Llama3-70B) Reasoning via Reinforcement Learning (grpo) on Open Software Evolution.
 
