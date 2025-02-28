@@ -215,4 +215,5 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [Reasoning Datasets](https://huggingface.co/collections/philschmid/reasoning-datasets-679f57ff20e5b46b4ef4d3dd)
 - [RL with Better Cold-Start Strategies](https://github.com/liziniu/cold_start_rl)
 - [Learning to Reason at the Frontier of Learnability](https://arxiv.org/pdf/2502.12272)
+- [Reasoning-Attack](https://github.com/PKU-YuanGroup/Reasoning-Attack/tree/master)
 
