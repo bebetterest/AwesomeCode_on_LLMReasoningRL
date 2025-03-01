@@ -183,6 +183,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
   - [code_contests](https://huggingface.co/datasets/deepmind/code_contests) (train:3.76k; val:117; test:165)
   - [TACO](https://huggingface.co/datasets/BAAI/TACO) (train:25k; test:1k)
   - [AceCode-89K](https://huggingface.co/datasets/TIGER-Lab/AceCode-89K) (train:87.1k)
+  - [KodCode-V1](https://huggingface.co/datasets/KodCode/KodCode-V1) (train:444k)
 - puzzle
   - [https://huggingface.co/blog/yuchenlin/zebra-logic](https://huggingface.co/blog/yuchenlin/zebra-logic) (zebra-puzzle)
   - [mem-kk-logic](https://github.com/AlphaPav/mem-kk-logic/) (Knights and Knaves (K&K) puzzles)
