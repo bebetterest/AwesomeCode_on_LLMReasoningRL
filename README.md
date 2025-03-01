@@ -134,6 +134,12 @@ built upon veRL.
 
 
 ---
+- [Search-R1](https://github.com/PeterGriffinJin/Search-R1)
+
+Through RL (rule-based outcome reward), the 3B base LLM (both Qwen2.5-3b-base and Llama3.2-3b-base) develops reasoning and search engine calling abilities all on its own.
+
+
+---
 - [AceCoder](https://github.com/TIGER-AI-Lab/AceCoder)
 
 rule-based rl on large-scale coding dataset with an average of 16 test cases per prompt, synthesized by GPT-4o-mini.
