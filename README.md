@@ -210,6 +210,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [Chinese-DeepSeek-R1-Distill-data-110k](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k)
 - [Primus-Reasoning](https://huggingface.co/datasets/trendmicro-ailab/Primus-Reasoning)
 - [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs/tree/main/data)
+- [KodCode-V1-SFT-R1](https://huggingface.co/datasets/KodCode/KodCode-V1-SFT-R1)
 
 
 ## model weigts
