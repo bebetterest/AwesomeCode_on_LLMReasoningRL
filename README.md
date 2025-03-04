@@ -179,6 +179,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 
 ## verifier
 - [huggingface/Math-Verify](https://github.com/huggingface/Math-Verify)
+- [willccbb/verifiers](https://github.com/willccbb/verifiers)
 
 
 ## general
