@@ -186,6 +186,7 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [huggingface/trl](https://github.com/huggingface/trl)  ([unsloth](https://docs.unsloth.ai/basics/reasoning-grpo-rl-ppo) could reduce gpu memory requirement and speed up)
 - [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 - [volcengine/verl](https://github.com/volcengine/verl)
+- [sail-sg/oat](https://github.com/sail-sg/oat)
 
 
 ## data (any ratable task could be applied)
