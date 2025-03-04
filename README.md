@@ -131,6 +131,18 @@ Incentivizing the Search Capability in LLMs via Reinforcement Learning
 
 
 ---
+- [grpo-judge-experiments-findings-and-empirical-observations/](https://kalomaze.bearblog.dev/grpo-judge-experiments-findings-and-empirical-observations/)
+
+GRPO Judge Experiments: Findings & Empirical Observations
+
+
+---
+- [ReSearch](https://github.com/Agent-RL/ReSearch)
+
+learn to Reason with Search (ReSearch)
+
+
+---
 - [RAGEN](https://github.com/ZihanWang314/ragen)
 
 RAGEN is a reproduction of the DeepSeek-R1(-Zero) methods for training agentic models. They run RAGEN on Qwen-2.5-{0.5B, 3B}-{Instruct, None} and DeepSeek-R1-Distill-Qwen-1.5B, on the Gym-Sokoban task.📦
