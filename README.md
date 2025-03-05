@@ -177,6 +177,12 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [VLM-R1](https://github.com/om-ai-lab/VLM-R1)
 
 
+---
+- [VisualThinker-R1-Zero](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)
+
+successfully observe the emergent “aha moment” and increased response length in visual reasoning on just a 2B non-SFT models.
+
+
 ## verifier
 - [huggingface/Math-Verify](https://github.com/huggingface/Math-Verify)
 - [willccbb/verifiers](https://github.com/willccbb/verifiers)
