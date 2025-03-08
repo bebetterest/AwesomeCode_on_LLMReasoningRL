@@ -119,6 +119,13 @@ adapt from openrlhf.
 
 
 ---
+- [l1](https://github.com/cmu-l3/l1)
+
+Controlling How Long A Reasoning Model Thinks With Reinforcement Learning.
+built upon veRL.
+
+
+---
 - [swe-rl](https://github.com/facebookresearch/swe-rl)
 
 Advancing LLM (Llama3-70B) Reasoning via Reinforcement Learning (grpo) on Open Software Evolution.
