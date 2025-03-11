@@ -257,4 +257,5 @@ successfully observe the emergent “aha moment” and increased response length
 - [RL with Better Cold-Start Strategies](https://github.com/liziniu/cold_start_rl)
 - [Learning to Reason at the Frontier of Learnability](https://arxiv.org/pdf/2502.12272)
 - [Reasoning-Attack](https://github.com/PKU-YuanGroup/Reasoning-Attack/tree/master)
+- [Teaching Language Models to Solve Sudoku Through Reinforcement Learning](https://hrishbh.com/teaching-language-models-to-solve-sudoku-through-reinforcement-learning/)
 
