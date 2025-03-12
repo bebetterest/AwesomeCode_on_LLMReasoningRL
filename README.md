@@ -255,6 +255,7 @@ successfully observe the emergent “aha moment” and increased response length
 - [QwQ-32B-Preview](https://huggingface.co/Qwen/QwQ-32B-Preview)
 - [DeepSeek-R1 series](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)
 - [sky-t1-7b](https://huggingface.co/collections/NovaSky-AI/sky-t1-7b-67ab281da8192c1ba3e5296c)
+- [RekaAI/reka-flash-3](https://huggingface.co/RekaAI/reka-flash-3)
 
 
 ## others
