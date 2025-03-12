@@ -220,6 +220,7 @@ successfully observe the emergent “aha moment” and increased response length
 - puzzle
   - [https://huggingface.co/blog/yuchenlin/zebra-logic](https://huggingface.co/blog/yuchenlin/zebra-logic) (zebra-puzzle)
   - [mem-kk-logic](https://github.com/AlphaPav/mem-kk-logic/) (Knights and Knaves (K&K) puzzles)
+  - [temporal-clue](https://github.com/bradhilton/temporal-clue) (Clue-inspired puzzles with temporal and spatial dimensions)
 - others
   - [RLVR-IFeval](https://huggingface.co/datasets/allenai/RLVR-IFeval) (train:15k)
 - mix
