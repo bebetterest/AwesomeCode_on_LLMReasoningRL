@@ -190,6 +190,12 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 successfully observe the emergent “aha moment” and increased response length in visual reasoning on just a 2B non-SFT models.
 
 
+---
+- [https://github.com/LengSicong/MMR1](https://github.com/LengSicong/MMR1)
+
+MMR1-Math-v0-7B,  6k high-quality samples, GRPO, uniform sampling of data based on both task difficulty (filtering out overly simple problems) and mathematical reasoning diversity.
+
+
 ## verifier
 - [huggingface/Math-Verify](https://github.com/huggingface/Math-Verify)
 - [willccbb/verifiers](https://github.com/willccbb/verifiers)
