@@ -217,6 +217,8 @@ successfully observe the emergent “aha moment” and increased response length
   - [TACO](https://huggingface.co/datasets/BAAI/TACO) (train:25k; test:1k)
   - [AceCode-89K](https://huggingface.co/datasets/TIGER-Lab/AceCode-89K) (train:87.1k)
   - [KodCode-V1](https://huggingface.co/datasets/KodCode/KodCode-V1) (train:444k)
+  - [open-r1/codeforces](https://huggingface.co/datasets/open-r1/codeforces) (train: 9.56k; test:468)
+  - [open-r1/ioi](https://huggingface.co/datasets/open-r1/ioi) (train: 229; test:41) ([ioi-test-cases](https://huggingface.co/datasets/open-r1/ioi-test-cases))
 - puzzle
   - [https://huggingface.co/blog/yuchenlin/zebra-logic](https://huggingface.co/blog/yuchenlin/zebra-logic) (zebra-puzzle)
   - [mem-kk-logic](https://github.com/AlphaPav/mem-kk-logic/) (Knights and Knaves (K&K) puzzles)
@@ -245,6 +247,8 @@ successfully observe the emergent “aha moment” and increased response length
 - [Primus-Reasoning](https://huggingface.co/datasets/trendmicro-ailab/Primus-Reasoning)
 - [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs/tree/main/data)
 - [KodCode-V1-SFT-R1](https://huggingface.co/datasets/KodCode/KodCode-V1-SFT-R1)
+- [open-r1/codeforces-cots](https://huggingface.co/datasets/open-r1/codeforces-cots)
+- [open-r1/ioi-cots](https://huggingface.co/datasets/open-r1/ioi-cots)
 
 
 ## model weigts
