@@ -132,7 +132,7 @@ Advancing LLM (Llama3-70B) Reasoning via Reinforcement Learning (grpo) on Open S
 
 
 ---
-- [https://github.com/SsmallSong/Reason-Searcher](https://github.com/SsmallSong/Reason-Searcher)
+- [Reason-Searcher](https://github.com/SsmallSong/Reason-Searcher)
 
 Incentivizing the Search Capability in LLMs via Reinforcement Learning
 
@@ -198,7 +198,7 @@ successfully observe the emergent “aha moment” and increased response length
 
 
 ---
-- [https://github.com/LengSicong/MMR1](https://github.com/LengSicong/MMR1)
+- [MMR1](https://github.com/LengSicong/MMR1)
 
 MMR1-Math-v0-7B,  6k high-quality samples, GRPO, uniform sampling of data based on both task difficulty (filtering out overly simple problems) and mathematical reasoning diversity.
 
