@@ -150,6 +150,13 @@ learn to Reason with Search (ReSearch)
 
 
 ---
+- [AutoDidact](https://github.com/dCaples/AutoDidact)
+
+Research exploring how small LLMs can autonomously enhance their own research and reasoning capabilities by generating, researching, and answering self-created question-answer pairs, learning agentic search via reinforcement learning. All running on a single RTX 4090.
+built upon trl+Unsloth
+
+
+---
 - [RAGEN](https://github.com/ZihanWang314/ragen)
 
 RAGEN is a reproduction of the DeepSeek-R1(-Zero) methods for training agentic models. They run RAGEN on Qwen-2.5-{0.5B, 3B}-{Instruct, None} and DeepSeek-R1-Distill-Qwen-1.5B, on the Gym-Sokoban task.📦
