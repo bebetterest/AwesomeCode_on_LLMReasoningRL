@@ -119,6 +119,13 @@ adapt from openrlhf.
 
 
 ---
+- [Light-R1](https://github.com/Qihoo360/Light-R1)
+
+Curriculum SFT, DPO and RL on r1-distill/qwen models.
+built upon veRL.
+
+
+---
 - [l1](https://github.com/cmu-l3/l1)
 
 Controlling How Long A Reasoning Model Thinks With Reinforcement Learning.
