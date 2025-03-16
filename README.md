@@ -179,6 +179,12 @@ Through RL (rule-based outcome reward), the 3B base LLM (both Qwen2.5-3b-base an
 
 
 ---
+- [R1-Searcher](https://github.com/SsmallSong/R1-Searcher)
+
+utilizing a two-stage outcome-supervision reinforcement learning approach to enable the model to learn to invoke web search during the reasoning process: first allowing the model to learn how to invoke web search, and then teaching it how to effectively use that search engine.
+
+
+---
 - [AceCoder](https://github.com/TIGER-AI-Lab/AceCoder)
 
 rule-based rl on large-scale coding dataset with an average of 16 test cases per prompt, synthesized by GPT-4o-mini.
@@ -208,6 +214,15 @@ successfully observe the emergent “aha moment” and increased response length
 - [MMR1](https://github.com/LengSicong/MMR1)
 
 MMR1-Math-v0-7B,  6k high-quality samples, GRPO, uniform sampling of data based on both task difficulty (filtering out overly simple problems) and mathematical reasoning diversity.
+
+
+---
+- [groundlight/r1_vlm](https://github.com/groundlight/r1_vlm)
+
+apply grpo on a small VLM to solve cryptograms.
+built upon trl.
+
+![groundlight_r1_vlm](imgs/groundlight_r1_vlm.webp)
 
 
 ## verifier
