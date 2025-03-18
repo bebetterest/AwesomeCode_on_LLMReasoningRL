@@ -126,6 +126,13 @@ built upon veRL.
 
 
 ---
+- [DAPO](https://github.com/BytedTsinghua-SIA/DAPO)
+
+Decoupled Clip and Dynamic sAmpling Policy Optimization (DAPO) algorithm.
+built upon veRL.
+
+
+---
 - [l1](https://github.com/cmu-l3/l1)
 
 Controlling How Long A Reasoning Model Thinks With Reinforcement Learning.
