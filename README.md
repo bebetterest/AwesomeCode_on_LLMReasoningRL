@@ -299,6 +299,7 @@ built upon trl.
 - [KodCode-V1-SFT-R1](https://huggingface.co/datasets/KodCode/KodCode-V1-SFT-R1)
 - [open-r1/codeforces-cots](https://huggingface.co/datasets/open-r1/codeforces-cots)
 - [open-r1/ioi-cots](https://huggingface.co/datasets/open-r1/ioi-cots)
+- [glaiveai/reasoning-v1-20m](https://huggingface.co/datasets/glaiveai/reasoning-v1-20m)
 
 
 ## model weigts
