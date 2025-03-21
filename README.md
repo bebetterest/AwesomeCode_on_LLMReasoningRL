@@ -245,6 +245,13 @@ built upon trl.
 ![groundlight_r1_vlm](imgs/groundlight_r1_vlm.webp)
 
 
+---
+- [yihedeng9/OpenVLThinker](https://github.com/yihedeng9/OpenVLThinker)
+
+ iteratively leverages supervised fine-tuning (SFT) on lightweight training data and Reinforcement Learning (RL).
+ built upon verl.
+
+
 ## verifier
 - [huggingface/Math-Verify](https://github.com/huggingface/Math-Verify)
 - [willccbb/verifiers](https://github.com/willccbb/verifiers)
