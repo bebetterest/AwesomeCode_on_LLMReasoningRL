@@ -327,7 +327,7 @@ built upon trl.
 - [DeepSeek-R1 series](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)
 - [sky-t1-7b](https://huggingface.co/collections/NovaSky-AI/sky-t1-7b-67ab281da8192c1ba3e5296c)
 - [RekaAI/reka-flash-3](https://huggingface.co/RekaAI/reka-flash-3)
-
+- [nvidia/Llama-3_3-Nemotron-Super-49B-v1](https://huggingface.co/collections/nvidia/llama-nemotron-67d92346030a2691293f200b)
 
 ## others
 - [Reasoning Datasets](https://huggingface.co/collections/philschmid/reasoning-datasets-679f57ff20e5b46b4ef4d3dd)
