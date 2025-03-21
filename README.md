@@ -158,6 +158,13 @@ GRPO Judge Experiments: Findings & Empirical Observations
 
 
 ---
+- [knoveleng/open-rs](https://github.com/knoveleng/open-rs)
+
+focus on a 1.5-billion-parameter model, DeepSeek-R1-Distill-Qwen-1.5B, grpo trained for math on 4 NVIDIA A40 GPUs (48 GB VRAM each) within 24 hours.
+built upon trl.
+
+
+---
 - [ReSearch](https://github.com/Agent-RL/ReSearch)
 
 learn to Reason with Search (ReSearch)
