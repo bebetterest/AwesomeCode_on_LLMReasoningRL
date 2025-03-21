@@ -205,6 +205,12 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 
 
 ---
+- [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)
+
+Qwen2.5-7B-Instruct -> sft -> grpo
+
+
+---
 - [open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
 
 ![open-r1-multimodal](imgs/open-r1-multimodal.png)
