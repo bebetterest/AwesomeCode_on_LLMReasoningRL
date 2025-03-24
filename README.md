@@ -115,7 +115,7 @@ built upon veRL.
 - [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/)
 
 An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model.
-adapt from openrlhf. 
+adapt from openrlhf.
 
 
 ---
@@ -129,6 +129,13 @@ built upon veRL.
 - [DAPO](https://github.com/BytedTsinghua-SIA/DAPO)
 
 Decoupled Clip and Dynamic sAmpling Policy Optimization (DAPO) algorithm.
+built upon veRL.
+
+
+---
+- [nick7nlp/FastCuRL/tree/main](https://github.com/nick7nlp/FastCuRL)
+
+FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models.
 built upon veRL.
 
 
