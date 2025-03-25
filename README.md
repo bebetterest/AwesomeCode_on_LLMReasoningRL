@@ -194,6 +194,13 @@ built upon veRL.
 
 
 ---
+- [VAGEN](https://github.com/RAGEN-AI/VAGEN)
+
+VAGEN is a multi-turn reinforcement learning framework designed specifically for training VLM Agents. VAGEN leverages the TRICO algorithm to efficiently train VLMs for visual agentic tasks.
+built upon veRL.
+
+
+---
 - [Agent-R1](https://github.com/0russwest0/Agent-R1)
 
 employ End-to-End reinforcement learning to train agents in specific environments. Developers need only define domain-specific tools and reward functions to extend Agent-R1 to their unique use cases.
