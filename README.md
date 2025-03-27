@@ -272,12 +272,6 @@ built upon trl.
  built upon verl.
 
 
----
-- [Reason-RFT](https://arxiv.org/abs/2503.20752v1)
-
-Reinforcement Fine-Tuning for Visual Reasoning. sft + grpo.
-
-
 ## verifier
 - [huggingface/Math-Verify](https://github.com/huggingface/Math-Verify)
 - [willccbb/verifiers](https://github.com/willccbb/verifiers)
