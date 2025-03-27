@@ -9,7 +9,6 @@ ReFT: Reasoning with Reinforced Fine-Tuning ([2401.08967](https://arxiv.org/abs/
 
 ![ReFT-img](imgs/REFT.png)
 
-
 ---
 - [RLVR: Reinforcement Learning with Verifiable Rewards](https://github.com/allenai/open-instruct/blob/main/open_instruct/ppo_vllm_thread_ray_gtrl.py)
 
@@ -271,6 +270,12 @@ built upon trl.
 
  iteratively leverages supervised fine-tuning (SFT) on lightweight training data and Reinforcement Learning (RL).
  built upon verl.
+
+
+---
+- [Reason-RFT](https://arxiv.org/abs/2503.20752v1)
+
+Reinforcement Fine-Tuning for Visual Reasoning. sft + grpo.
 
 
 ## verifier
