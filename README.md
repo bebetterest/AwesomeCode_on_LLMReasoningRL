@@ -171,6 +171,10 @@ built upon trl.
 
 
 ---
+- [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL)
+
+
+---
 - [ReSearch](https://github.com/Agent-RL/ReSearch)
 
 learn to Reason with Search (ReSearch)
@@ -295,6 +299,7 @@ built upon trl.
   - [DeepScaleR-Preview-Dataset](https://huggingface.co/datasets/agentica-org/DeepScaleR-Preview-Dataset) (AIME+AMC+Omni-MATH+STILL) (train: 40k)
   - [Big-Math-RL-Verified](https://huggingface.co/datasets/SynthLabsAI/Big-Math-RL-Verified) (train: 251k)
   - [OpenMathInstruct-2](https://huggingface.co/datasets/nvidia/OpenMathInstruct-2) (train:14M)
+  - [AReaL-boba-Data](https://huggingface.co/datasets/inclusionAI/AReaL-boba-Data) (train:106k)
 - code
   - [code_contests](https://huggingface.co/datasets/deepmind/code_contests) (train:3.76k; val:117; test:165)
   - [TACO](https://huggingface.co/datasets/BAAI/TACO) (train:25k; test:1k)
@@ -333,6 +338,7 @@ built upon trl.
 - [open-r1/codeforces-cots](https://huggingface.co/datasets/open-r1/codeforces-cots)
 - [open-r1/ioi-cots](https://huggingface.co/datasets/open-r1/ioi-cots)
 - [glaiveai/reasoning-v1-20m](https://huggingface.co/datasets/glaiveai/reasoning-v1-20m)
+- [AReaL-boba-SFT-200.jsonl](https://huggingface.co/datasets/inclusionAI/AReaL-boba-Data/blob/main/AReaL-boba-SFT-200.jsonl)
 
 
 ## model weigts
