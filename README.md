@@ -146,6 +146,13 @@ built upon veRL.
 
 
 ---
+- [lzhxmu/CPPO](https://github.com/lzhxmu/CPPO)
+
+CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models.
+built upon open_r1.
+
+
+---
 - [swe-rl](https://github.com/facebookresearch/swe-rl)
 
 Advancing LLM (Llama3-70B) Reasoning via Reinforcement Learning (grpo) on Open Software Evolution.
