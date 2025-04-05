@@ -195,6 +195,13 @@ built upon trl+Unsloth.
 
 
 ---
+- [GAIR-NLP/ToRL](https://github.com/GAIR-NLP/ToRL)
+
+ToRL (Tool-Integrated Reinforcement Learning), a framework that challenges traditional approaches to tool integration in language models by enabling LLMs to autonomously discover and refine tool usage strategies through reinforcement learning.
+built upon veRL.
+
+
+---
 - [RAGEN](https://github.com/ZihanWang314/ragen)
 
 RAGEN is a reproduction of the DeepSeek-R1(-Zero) methods for training agentic models. They run RAGEN on Qwen-2.5-{0.5B, 3B}-{Instruct, None} and DeepSeek-R1-Distill-Qwen-1.5B, on the Gym-Sokoban task.📦
@@ -239,6 +246,15 @@ rule-based rl on large-scale coding dataset with an average of 16 test cases per
 - [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1)
 
 Qwen2.5-7B-Instruct -> sft -> grpo
+
+
+---
+- [linjc16/Rec-R1[(https://github.com/linjc16/Rec-R1)
+
+Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning.
+built upon veRL.
+
+![Rec-R1](imgs/Rec-R1.png)
 
 
 ---
