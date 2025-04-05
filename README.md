@@ -314,6 +314,7 @@ built upon trl.
 ## data (any ratable task could be applied)
 - [Open Reasoning Data](https://gr.inc/)
 - [synthetic-1](https://huggingface.co/datasets/PrimeIntellect/SYNTHETIC-1)
+- [II-Thought-RL-v0](https://huggingface.co/datasets/Intelligent-Internet/II-Thought-RL-v0) (train: 342k)
 - math
   - [RLVR-GSM](https://huggingface.co/datasets/allenai/RLVR-GSM) (train:7.47k; test:1.32k)
   - [RLVR-MATH](https://huggingface.co/datasets/allenai/RLVR-MATH) (train:7.5k)
