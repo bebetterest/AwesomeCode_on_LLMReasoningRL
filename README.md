@@ -302,8 +302,14 @@ built upon trl.
 ---
 - [yihedeng9/OpenVLThinker](https://github.com/yihedeng9/OpenVLThinker)
 
- iteratively leverages supervised fine-tuning (SFT) on lightweight training data and Reinforcement Learning (RL).
- built upon verl.
+iteratively leverages supervised fine-tuning (SFT) on lightweight training data and Reinforcement Learning (RL).
+built upon verl.
+
+
+ ---
+ - [MAYE](https://github.com/GAIR-NLP/MAYE)
+
+MAYE, a transparent and reproducible framework and a comprehensive evaluation scheme for applying reinforcement learning (RL) to vision-language models (VLMs). The codebase is built entirely from scratch without relying on existing RL toolkits.
 
 
 ## verifier
