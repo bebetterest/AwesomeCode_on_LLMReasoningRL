@@ -146,6 +146,13 @@ built upon veRL.
 
 
 ---
+- [ThinkPrune](https://github.com/UCSB-NLP-Chang/ThinkPrune)
+
+ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning.
+built upon veRL.
+
+
+---
 - [lzhxmu/CPPO](https://github.com/lzhxmu/CPPO)
 
 CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models.
