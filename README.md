@@ -363,6 +363,7 @@ built upon trl.
 - [open-r1/ioi-cots](https://huggingface.co/datasets/open-r1/ioi-cots)
 - [glaiveai/reasoning-v1-20m](https://huggingface.co/datasets/glaiveai/reasoning-v1-20m)
 - [AReaL-boba-SFT-200.jsonl](https://huggingface.co/datasets/inclusionAI/AReaL-boba-Data/blob/main/AReaL-boba-SFT-200.jsonl)
+- [nvidia/OpenCodeReasoning](https://huggingface.co/datasets/nvidia/OpenCodeReasoning)
 
 
 ## model weigts
