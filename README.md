@@ -318,6 +318,11 @@ built upon verl.
 MAYE, a transparent and reproducible framework and a comprehensive evaluation scheme for applying reinforcement learning (RL) to vision-language models (VLMs). The codebase is built entirely from scratch without relying on existing RL toolkits.
 
 
+- [ServiceNow/pipelinerl](https://github.com/ServiceNow/pipelinerl)
+
+A scalable asynchronous reinforcement learning implementation with in-flight weight updates.
+
+
 ## verifier
 - [huggingface/Math-Verify](https://github.com/huggingface/Math-Verify)
 - [willccbb/verifiers](https://github.com/willccbb/verifiers)
